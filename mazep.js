@@ -42,7 +42,7 @@ function Game(id, maze) {
 
     this.tileTypes = ['wall', 'floor'];
 
-    this.tileDim = 38;
+    this.tileDim = 35;
 
     // inherit the maze's properties: map, player start, goal start.
     this.map = maze.map;

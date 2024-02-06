@@ -188,7 +188,7 @@
    */
   .goal {
     background-image: url('me.jpg');
-    
+    background-color: #cccccc;
     border: 1px solid #98720b;
     background-size: cover;
   }

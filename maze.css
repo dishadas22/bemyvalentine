@@ -9,7 +9,7 @@
     border: 1px;
   }
   body.success  {
-    background-image: bg.jpg
+    background-image: bg.jpg;
     background-color: #b7f0b7;
    
     transition: 0.2s ease;
